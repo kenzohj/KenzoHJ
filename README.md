@@ -6,6 +6,7 @@
 <br>
 
 <div align="center">
+    <img alt="Kotlin" src="https://img.shields.io/badge/KOTLIN-purple?style=for-the-badge&logo=kotlin&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/JAVA-bf1004?style=for-the-badge&logo=oracle&logoColor=white">
     <img alt="Gradle" src="https://img.shields.io/badge/GRADLE-white?style=for-the-badge&logo=gradle&logoColor=02303A">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-bf4204?style=for-the-badge&logo=html5&logoColor=white">
