@@ -1,5 +1,5 @@
 <h1 align="center">🔥 Hey, I'm Hyside 🔥</h1>
-<h3 align="center">👨‍🎓 1st year, IT student 💻</h3>
+<h3 align="center">👨‍🎓 2nd year, IT student 💻</h3>
 <br>
 
 <div align="center"><h2>☕ Languages & Frameworks 🦀</h2></div>
