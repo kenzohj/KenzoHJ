@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Hey, I'm Hyside 🔥</h1>
+<h1 align="center">🔥 Hey, I'm Kenzo 🔥</h1>
 <h3 align="center">👨‍🎓 3rd year, IT student 💻</h3>
 <br>
 
@@ -39,7 +39,7 @@
 <div align="center"><h2>:octocat: Github Statistics :octocat:</h2></div>
 <br>
 
-<a href="https://github.com/HysideDev">
+<a href="https://github.com/KenzoHJ">
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=HysideDev&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="Github stats"/>
     </div>
