@@ -41,6 +41,6 @@
 
 <a href="https://github.com/KenzoHJ">
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=HysideDev&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="Github stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=KenzoHJ&show_icons=true&theme=dark&line_height=28&count_private=true&include_all_commits=true" alt="Github stats"/>
     </div>
 </a>
