@@ -1,5 +1,5 @@
 <h1 align="center">🔥 Hey, I'm Kenzo 🔥</h1>
-<h3 align="center">👨‍🎓 3rd year, IT student 💻</h3>
+<h3 align="center">👨‍🎓 4th year, IT student 💻</h3>
 <br>
 
 <div align="center"><h2>☕ Languages & Frameworks 🦀</h2></div>
